@@ -6,3 +6,5 @@ class ResponseDTO {
         this.sucess = statusCode < 400;
     }
 }
+
+export { ResponseDTO };
